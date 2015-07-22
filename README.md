@@ -33,4 +33,4 @@ The second attack sends an extrememly large file (dev/urandom) which will eventu
 
 This attack will cause the client to eventually crash because there will be no space on the disk.
 
-Full project specification; http://www.read.cs.ucla.edu/111/lab4
+Full project specification: http://www.read.cs.ucla.edu/111/lab4
